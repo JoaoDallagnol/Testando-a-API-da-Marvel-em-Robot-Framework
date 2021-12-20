@@ -9,7 +9,7 @@ Library     ${EXECDIR}/resources/factories/Xmen.py
 
 
 #Setando o header para poder usar em toda a aplicação
-Suite Setup     Super Setup     jvdallagnol2001@gmail.com
+Suite Setup     Super Setup     "{COLOQUE SEU EMAIl AQUI}" 
 
 
 *Test Cases*
