@@ -1,4 +1,4 @@
-# Testando-a-API-da-Marvel-em-Robot-Framework
+# Testando a API da Marvel em Robot Framework
 
 Código desenvolvido com proposito de aprendizado através do portal do QA Ninja  <br />
 
